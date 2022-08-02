@@ -7,7 +7,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Maih-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Maih-pic" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/93302202/182277683-1908b865-d26f-499f-be41-d1c3d21701d9.png">
+  <img align="right" alt="Maih-pic" height="100" style="border-radius:50px;" 
+  src="https://user-images.githubusercontent.com/93302202/182289249-1282c90f-cf18-4402-8e6a-40924060ca41.jpg">
 </div>
   
   
