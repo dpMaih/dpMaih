@@ -6,7 +6,6 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpMaih&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Maih-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Maih-pic" height="100" style="border-radius:50px;" 
   src="https://user-images.githubusercontent.com/93302202/182289249-1282c90f-cf18-4402-8e6a-40924060ca41.jpg">
 </div>
